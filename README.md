@@ -31,7 +31,7 @@ data-driven decision making.
 ## 🎯 Career Focus
 - Data Scientist  
 - Machine Learning Engineer (Entry Level)  
-- Data Science Intern  
+- Data analyst 
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/shrikantgholap  
